@@ -6,7 +6,8 @@ An AI-powered gesture control system that enables users to control YouTube video
 
 ## 🚀 Demo Preview
 
-![Thumbnail](asset/img.png)
+<img width="1536" height="1024" alt="ChatGPT Image Jun 13, 2026, 01_07_04 PM" src="https://github.com/user-attachments/assets/20e56cdc-aa22-4ac3-8019-ed825b99f285" />
+
 
 ### 🎬 Full Video Demonstration
 
