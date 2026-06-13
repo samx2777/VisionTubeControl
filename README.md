@@ -11,7 +11,7 @@ An AI-powered gesture control system that enables users to control YouTube video
 
 ### 🎬 Full Video Demonstration
 
-[▶ Watch Demo Video](./demo/demo.mp4)
+[▶ Watch Demo Video](youtube_gesture_control/demo/demo.mp4)
 
 ---
 
